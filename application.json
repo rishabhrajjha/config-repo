@@ -1,3 +1,4 @@
 {
   "message": "Hello from Spring Cloud Config"
+      "key1": "This is a test key1"
 }
